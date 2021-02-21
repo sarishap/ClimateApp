@@ -1,1 +1,1 @@
-# ClimateApp
+# Climate
